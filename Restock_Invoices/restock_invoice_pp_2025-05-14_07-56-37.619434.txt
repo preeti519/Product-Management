@@ -1,0 +1,13 @@
+Supplier Name: pp
+Date: 2025-05-14 07:56:37.619434
+----------------------------------------
+Product: Skin Cleanser
+Brand: Cetaphil
+Country: Switzerland
+Quantity Restocked: 22
+New Cost Price: Rs. 222
+Item Total Cost: Rs. 4884
+----------------------------------------
+Total Cost: Rs. 4884
+VAT Amount (13.0%): Rs. 634.92
+Total Cost with VAT: Rs. 5518.92

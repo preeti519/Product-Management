@@ -1,0 +1,20 @@
+Supplier Name: kriti
+Date: 2025-05-20 08:25:30.113739
+----------------------------------------
+Product: Skin Cleanser
+Brand: Cetaphil
+Country: Switzerland
+Quantity Restocked: 4
+New Cost Price: Rs. 200
+Item Total Cost: Rs. 800
+----------------------------------------
+Product: Skin Cleanser
+Brand: Cetaphil
+Country: Switzerland
+Quantity Restocked: 6
+New Cost Price: Rs. 300
+Item Total Cost: Rs. 1800
+----------------------------------------
+Total Cost: Rs. 2600
+VAT Amount (13.0%): Rs. 338.0
+Total Cost with VAT: Rs. 2938.0

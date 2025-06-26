@@ -1,0 +1,13 @@
+Supplier Name: Anu
+Date: 2025-06-17 09:21:56.370199
+----------------------------------------
+Product: Sunscreen
+Brand: Aqualogica
+Country: India
+Quantity Restocked: 4
+New Cost Price: Rs. 300
+Item Total Cost: Rs. 1200
+----------------------------------------
+Total Cost: Rs. 1200
+VAT Amount (13.0%): Rs. 156.0
+Total Cost with VAT: Rs. 1356.0
